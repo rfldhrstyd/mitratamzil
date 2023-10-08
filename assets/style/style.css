@@ -255,6 +255,7 @@ button{
   border-radius: var(--border10);
   padding: 24px 10px;
   gap: 8px;
+  box-shadow: var(--box-shadow-secondary);
 }
 
 .text-content-data p{
