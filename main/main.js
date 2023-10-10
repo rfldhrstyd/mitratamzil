@@ -18,7 +18,7 @@ var options = {
   dataLabels:{
     enabled: true,
     style:{
-        fontSize : '8px',
+        fontSize : '10px',
     },
   },
 };
@@ -85,7 +85,7 @@ var options2 = {
   dataLabels:{
     enabled: true,
     style:{
-        fontSize : '8px',
+        fontSize : '10px',
     },
   },
   xaxis: {
