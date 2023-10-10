@@ -2,6 +2,9 @@ var options = {
   chart: {
     height: 280,
     type: "area",
+    toolbar:{
+        show: false,
+    }
   },
   series: [
     {
